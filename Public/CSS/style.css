@@ -1,19 +1,46 @@
-#formation b {
-	color: #404040 ;
+body
+{
+background-image:url('paper.gif');
+background-color:#000000;
+}
+
+body {
+color: #FFFFFF;
+background-color: #FF00000;
+background-image:url(images/image_de_fond.png);
+}
+
+h1
+{
+    color: white;
+}
+ 
+h2
+{
+    color: white;
+}
+ 
+a {
+	color:#808080;
+	text-decoration: none;
+	}
+
+#formation {
+	color: #FFFFFF;
 	}
 
 #experiences {
-	color: #404040 ;
+	color: #FFFFFF;
 	}
 
 #competences {
-	color: #404040 ;
+	color: #FFFFFF;
 	}
 
 #interets {
-	color: #404040 ;
+	color: #FFFFFF;
 	}
 
 #contact{
-	color: #404040 ;
+	color: #FFFFFF;
 	}
